@@ -1,3 +1,10 @@
+/*
+* Recursion works well for incremental calculations because it:
+* – Matches the step-by-step nature of the problem
+* – Carries intermediate results automatically
+* – Minimizes manual tracking
+* – Keeps the logic simpler and easier to follow
+*/
 
 #include <stdio.h>
 #include <math.h>
