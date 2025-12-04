@@ -20,4 +20,5 @@ int main() {
     double total = calculateRepayment(100000, 0.05, 3, 33333.33, 0, 1);
     printf("Total paid: %.2f\n", total);
     return 0;
+
 }
